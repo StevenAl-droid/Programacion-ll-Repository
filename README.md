@@ -1,5 +1,5 @@
 #Mi primer proyecto
-Descripción
+#Descripción
 Soy un estudiante de la UNTRM, mi nombre es Steven Alexis Mori Chuquipiondo, soy estudiante de la carrera profesional de ingenieria de la energia y estoy cursando programacion ll, este es mi proyecto que consiste en desarrollar un archivo README y convertir su contenido en una página web utilizando GitHub Pages.
 
 #Objetivos
