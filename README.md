@@ -12,8 +12,8 @@ Publicar un proyecto mediante GitHub Pages.
 
 # Estructura del proyecto
 
--README.md: contiene la documentación del proyecto.
--index.html: contiene la página web.
+- README.md: contiene la documentación del proyecto.
+- index.html: contiene la página web.
 
 # Autor
 
